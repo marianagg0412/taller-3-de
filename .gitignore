@@ -1,0 +1,9 @@
+.venv/*
+cli-user-*.*
+credentials/*
+data/*
+.env
+
+__pycache__/*
+
+.DS_Store
